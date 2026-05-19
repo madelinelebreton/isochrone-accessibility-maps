@@ -1,0 +1,15 @@
+# R junk
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+
+# API keys - never commit these
+api_keys.json
+conf/
+
+# OS junk
+.DS_Store
+Thumbs.db
+.Rproj.user
+.positai
